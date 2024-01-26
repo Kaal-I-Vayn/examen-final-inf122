@@ -1,0 +1,23 @@
+.contenedor-pokemon{
+    display: flex;
+    flex-direction: column;    
+}
+.nombre-pokemon-principal{
+    color: var(--black-gray);
+    font-size: var(--mdtittle);
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.nombre-pokemon{
+    color: var(--azul-text);
+    text-transform: capitalize;
+    text-align: left;
+    font-size: var(--md);
+}
+p.id-pokemon{
+    color: var(--celeste-id);
+    font-size: var(--smtittle);
+    text-align: right;
+    
+}

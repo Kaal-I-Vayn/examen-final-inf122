@@ -1,0 +1,33 @@
+.contenedor-about{
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column; 
+    justify-content: left;
+    align-items: left;
+    border-radius: 15px 15px 0px 0px;
+    width: 300px;    
+    height: auto;
+    margin-bottom: 55px;
+}
+.contenedor-about h3{
+    margin-left: 10px;
+    font-size: var(--smtext);
+    color: var(--black-gray);
+    margin: 15px;
+}
+.about{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);    
+    margin-bottom: 20px;
+}
+.p-title{
+    margin-left: 10px;
+    font-size: var(--smtext);
+    color: var(--white-trans);
+}
+.p-p{
+    margin-left: 10px;
+    margin-right: -35px;
+    font-size: var(--smtext);
+    color: var(--black-gray);
+}

@@ -38,6 +38,18 @@
   --callout-border-rgb: 172, 175, 176;
   --card-rgb: 180, 185, 188;
   --card-border-rgb: 131, 134, 135;
+
+  --azul-text:#26367C;
+  --celeste-id:#7480B2;
+  --black-gray:#393939;
+  --white-gray:#F5F7FB;
+  --blue-dar:#26367C;
+  --white-trans:#676767;
+  --white:#ffffff;
+  --md:32px;
+  --smtittle:14px;
+  --smtext:12px;
+
 }
 
 @media (prefers-color-scheme: dark) {
